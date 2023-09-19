@@ -1,0 +1,34 @@
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.Gcard {
+  width: 400px;
+  margin: 30px auto;
+  border: 1px solid lightgray;
+  border-radius: 14px;
+}
+.Gimg {
+  width: 100%;
+  border-top-right-radius: 14px;
+  border-top-left-radius: 14px;
+  margin-bottom: 1px;
+}
+
+.padding {
+  padding: 30px;
+}
+p {
+  margin-bottom: 30px;
+}
+h5 {
+  color: rgb(131, 128, 128);
+  margin-left: 2px;
+}
+.Gbtn {
+  width: 150px;
+  background-color: white;
+  padding: 10px;
+  color: blue;
+  border-radius: 5px;
+}
